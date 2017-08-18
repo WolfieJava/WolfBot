@@ -1,7 +1,7 @@
 {
   "name": "discord-chill",
   "version": "1.0.0",
-  "description": "A  modular bot template for [discord.js](https://github.com/hydrabolt/discord.js/).",
+  "description": "",
   "main": "bot.js",
   "dependencies": {
     "discord.js": "^11.1.0",
